@@ -29,3 +29,6 @@
 2023-10-18 11:38:51.514 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
 2023-10-18 11:38:51.757 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
 2023-10-18 11:38:51.763 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:41:46.241 [info] Review> No matching pull request metadata found locally for current branch master
+2023-10-18 11:41:46.241 [info] Review> no matching pull request metadata found for current branch master
+2023-10-18 11:41:46.241 [info] Review> No matching pull request metadata found on GitHub for current branch master

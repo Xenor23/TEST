@@ -257,4 +257,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%202/ahhh" added="2023-10-18T09:42:00.986905Z" modified="2023-10-18T09:42:00.986908Z" visited="2023-10-18T09:42:00.986905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-10-18T09:42:00.986906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

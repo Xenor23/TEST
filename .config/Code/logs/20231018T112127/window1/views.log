@@ -14,3 +14,4 @@
 2023-10-18 11:24:48.528 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
 2023-10-18 11:27:50.273 [info] Showing view workbench.scm.repositories in the container workbench.view.scm
 2023-10-18 11:27:50.281 [info] Added views:workbench.scm.repositories in workbench.view.scm
+2023-10-18 11:41:46.235 [info] Removed views:workbench.scm.repositories from workbench.view.scm
