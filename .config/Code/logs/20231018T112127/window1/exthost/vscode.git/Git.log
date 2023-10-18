@@ -227,3 +227,44 @@ fatal: repository 'https://github.com/Xenor23/Vsc-Git-test.git/' not found
 2023-10-18 11:38:20.556 [info] > git status -z -uall [111ms] (cancelled)
 2023-10-18 11:38:21.414 [info] > git ls-files --stage -- /home/stagiaire/klqngd/cours 2/FONCTIONNE/test.md [1ms]
 2023-10-18 11:38:21.423 [info] > git show --textconv :klqngd/cours 2/FONCTIONNE/test.md [1ms]
+2023-10-18 11:38:49.788 [info] > git add -A -- . [9164ms]
+2023-10-18 11:38:49.788 [info] warning: CRLF will be replaced by LF in snap/discord/158/.config/discord/0.0.31/modules/discord_utils/node_modules/superagent/dist/superagent.js.
+The file will have its original line endings in your working directory
+2023-10-18 11:38:49.970 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [173ms]
+2023-10-18 11:38:49.970 [info] warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+2023-10-18 11:38:49.979 [info] > git config --get commit.template [2ms]
+2023-10-18 11:38:49.987 [info] > git config --get commit.template [1ms]
+2023-10-18 11:38:49.994 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:38:50.042 [info] > git status -z -uall [41ms]
+2023-10-18 11:38:50.779 [info] > git config --get commit.template [9ms]
+2023-10-18 11:38:50.779 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-10-18 11:38:50.835 [info] > git status -z -uall [48ms]
+2023-10-18 11:38:51.459 [info] > git check-ignore -v -z --stdin [9ms]
+2023-10-18 11:38:51.908 [info] > git ls-files --stage -- /home/stagiaire/klqngd/cours 2/FONCTIONNE/test.md [2ms]
+2023-10-18 11:38:51.917 [info] > git cat-file -s d1b965a7adbf039e86b7db768e643e0042d5e08d [1ms]
+2023-10-18 11:38:51.929 [info] > git show --textconv :klqngd/cours 2/FONCTIONNE/test.md [4ms]
+2023-10-18 11:38:57.969 [info] > git log --oneline --cherry master...master@{upstream} -- [1ms]
+2023-10-18 11:38:57.970 [info] fatal: no upstream configured for branch 'master'
+2023-10-18 11:38:58.618 [info] > git pull --tags [642ms]
+2023-10-18 11:38:58.618 [info] remote: Repository not found.
+fatal: repository 'https://github.com/Xenor23/Vsc-Git-test.git/' not found
+2023-10-18 11:38:58.634 [info] > git config --get commit.template [9ms]
+2023-10-18 11:38:58.634 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:38:58.680 [info] > git status -z -uall [39ms]
+2023-10-18 11:38:59.300 [info] > git check-ignore -v -z --stdin [4ms]
+2023-10-18 11:38:59.955 [info] > git ls-files --stage -- /home/stagiaire/klqngd/cours 2/FONCTIONNE/test.md [4ms]
+2023-10-18 11:38:59.974 [info] > git cat-file -s d1b965a7adbf039e86b7db768e643e0042d5e08d [8ms]
+2023-10-18 11:38:59.990 [info] > git show --textconv :klqngd/cours 2/FONCTIONNE/test.md [5ms]
+2023-10-18 11:39:02.537 [info] > git push [1ms]
+2023-10-18 11:39:02.538 [info] fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+2023-10-18 11:39:02.552 [info] > git config --get commit.template [7ms]
+2023-10-18 11:39:02.553 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:39:02.605 [info] > git status -z -uall [43ms]
+2023-10-18 11:39:03.228 [info] > git check-ignore -v -z --stdin [3ms]

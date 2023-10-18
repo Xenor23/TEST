@@ -18,3 +18,14 @@
 2023-10-18 11:21:31.995 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
 2023-10-18 11:21:32.017 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
 2023-10-18 11:28:35.035 [info] Review> Queuing additional validate state
+2023-10-18 11:38:50.076 [info] Review> Queuing additional validate state
+2023-10-18 11:38:50.389 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:38:50.637 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:38:50.714 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:38:50.956 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:38:50.976 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:38:51.161 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:38:51.452 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:38:51.514 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:38:51.757 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:38:51.763 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
