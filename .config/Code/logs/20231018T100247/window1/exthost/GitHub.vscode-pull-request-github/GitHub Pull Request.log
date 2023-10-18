@@ -1,0 +1,55 @@
+2023-10-18 10:05:29.513 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 10:05:29.513 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/stagiaire/.config/Code/User/globalStorage/github.vscode-pull-request-github/temp'
+2023-10-18 10:05:29.526 [info] Looking for git repository
+2023-10-18 10:05:29.526 [info] Found 0 repositories during activation
+2023-10-18 10:05:29.526 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 10:05:29.527 [info] Registering git provider
+2023-10-18 10:06:09.949 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 10:06:10.028 [info] Looking for git repository
+2023-10-18 10:06:10.028 [info] Found 0 repositories during activation
+2023-10-18 10:06:10.028 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 10:06:11.167 [info] Registering git provider
+2023-10-18 10:06:11.191 [info] Git initialization state changed: state=initialized
+2023-10-18 10:08:27.342 [info] Repository file:///home/stagiaire/klqngd/cours%202/Vsc%20Git has been opened
+2023-10-18 10:08:27.342 [info] Review> Validate state in progress
+2023-10-18 10:08:27.342 [info] Review> Validating state...
+2023-10-18 10:08:27.344 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-10-18 10:08:27.349 [info] No GitHub remotes found for folder /home/stagiaire/klqngd/cours 2/Vsc Git
+2023-10-18 10:08:27.409 [info] Review> Queuing additional validate state
+2023-10-18 10:08:27.409 [info] Repo state for file:///home/stagiaire/klqngd/cours%202/Vsc%20Git changed.
+2023-10-18 10:08:27.409 [info] Repo file:///home/stagiaire/klqngd/cours%202/Vsc%20Git has already been setup.
+2023-10-18 10:08:27.477 [info] Review> Validating state...
+2023-10-18 10:08:27.477 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-10-18 10:08:27.477 [info] No GitHub remotes found for folder /home/stagiaire/klqngd/cours 2/Vsc Git
+2023-10-18 10:08:27.527 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 10:08:27.527 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 10:08:27.527 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-18 10:08:27.551 [info] Review> Validate state in progress
+2023-10-18 10:08:27.551 [info] Review> Validating state...
+2023-10-18 10:08:27.569 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/Vsc Git
+2023-10-18 10:08:27.909 [info] Trying to use globalState for assignableUsers.
+2023-10-18 10:08:27.917 [info] GlobalState does not exist for assignableUsers.
+2023-10-18 10:08:27.950 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 10:08:27.950 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 10:08:27.951 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-18 10:08:28.870 [info] Review> Validate state in progress
+2023-10-18 10:08:28.870 [info] Review> Validating state...
+2023-10-18 10:08:28.890 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/Vsc Git
+2023-10-18 10:08:28.891 [info] Using in-memory cached assignable users.
+2023-10-18 10:08:28.922 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 10:08:28.922 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 10:08:29.404 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-18 10:14:31.805 [info] Review> Validate state in progress
+2023-10-18 10:14:31.805 [info] Review> Validating state...
+2023-10-18 10:14:31.837 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/Vsc Git
+2023-10-18 10:14:31.837 [info] Using in-memory cached assignable users.
+2023-10-18 10:14:31.876 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 10:14:31.876 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 10:14:32.275 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-18 10:16:33.072 [info] Review> Validate state in progress
+2023-10-18 10:16:33.072 [info] Review> Validating state...
+2023-10-18 10:16:33.089 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/Vsc Git
+2023-10-18 10:16:33.090 [info] Using in-memory cached assignable users.
+2023-10-18 10:16:33.126 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 10:16:33.126 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 10:16:33.562 [info] Review> No matching pull request metadata found on GitHub for current branch main

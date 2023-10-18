@@ -1,0 +1,22 @@
+2023/10/17-09:22:05.972 d3f Reusing MANIFEST /home/stagiaire/snap/discord/158/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/10/17-09:22:05.973 d3f Recovering log #8
+2023/10/17-09:22:05.973 d3f Reusing old log /home/stagiaire/snap/discord/158/.config/discord/Local Storage/leveldb/000008.log 
+2023/10/17-09:49:44.875 1d9f Level-0 table #12: started
+2023/10/17-09:49:44.897 1d9f Level-0 table #12: 2088495 bytes OK
+2023/10/17-09:49:44.901 1d9f Delete type=0 #8
+2023/10/17-09:50:51.468 1d9f Level-0 table #14: started
+2023/10/17-09:50:51.477 1d9f Level-0 table #14: 1937496 bytes OK
+2023/10/17-09:50:51.481 1d9f Delete type=0 #11
+2023/10/17-15:07:00.144 6e94 Level-0 table #16: started
+2023/10/17-15:07:00.148 6e94 Level-0 table #16: 25071 bytes OK
+2023/10/17-15:07:00.151 6e94 Delete type=0 #13
+2023/10/17-15:07:00.151 6e94 Compacting 4@0 + 1@1 files
+2023/10/17-15:07:00.180 6e94 Generated table #17@0: 20 keys, 3992643 bytes
+2023/10/17-15:07:00.184 6e94 Generated table #18@0: 55 keys, 39368 bytes
+2023/10/17-15:07:00.184 6e94 Compacted 4@0 + 1@1 files => 4032011 bytes
+2023/10/17-15:07:00.186 6e94 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/10/17-15:07:00.187 6e94 Delete type=2 #7
+2023/10/17-15:07:00.187 6e94 Delete type=2 #12
+2023/10/17-15:07:00.187 6e94 Delete type=2 #16
+2023/10/17-15:07:00.187 6e94 Delete type=2 #9
+2023/10/17-15:07:00.187 6e94 Delete type=2 #14

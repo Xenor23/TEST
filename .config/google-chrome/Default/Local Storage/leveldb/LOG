@@ -1,0 +1,9 @@
+2023/10/18-08:41:08.451 4 Reusing MANIFEST /home/stagiaire/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/18-08:41:08.452 4 Recovering log #8
+2023/10/18-08:41:08.452 4 Reusing old log /home/stagiaire/.config/google-chrome/Default/Local Storage/leveldb/000008.log 
+2023/10/18-10:09:52.561 6 Level-0 table #12: started
+2023/10/18-10:09:52.565 6 Level-0 table #12: 31644 bytes OK
+2023/10/18-10:09:52.569 6 Delete type=0 #8
+2023/10/18-10:27:46.773 4 Level-0 table #14: started
+2023/10/18-10:27:46.776 4 Level-0 table #14: 16266 bytes OK
+2023/10/18-10:27:46.780 4 Delete type=0 #11

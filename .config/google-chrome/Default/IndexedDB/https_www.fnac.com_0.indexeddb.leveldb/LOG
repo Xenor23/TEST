@@ -1,0 +1,6 @@
+2023/10/16-13:50:53.262 f4c Creating DB /home/stagiaire/.config/google-chrome/Default/IndexedDB/https_www.fnac.com_0.indexeddb.leveldb since it was missing.
+2023/10/16-13:50:53.269 f4c Reusing MANIFEST /home/stagiaire/.config/google-chrome/Default/IndexedDB/https_www.fnac.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/16-16:34:37.886 f4d Level-0 table #5: started
+2023/10/16-16:34:37.888 f4d Level-0 table #5: 1809 bytes OK
+2023/10/16-16:34:37.891 f4d Delete type=0 #3
+2023/10/16-16:34:37.891 f4d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

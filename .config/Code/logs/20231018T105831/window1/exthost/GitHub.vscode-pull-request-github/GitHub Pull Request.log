@@ -1,0 +1,33 @@
+2023-10-18 10:58:32.655 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 10:58:32.749 [info] Looking for git repository
+2023-10-18 10:58:32.749 [info] Found 0 repositories during activation
+2023-10-18 10:58:32.749 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 10:58:32.749 [info] Registering git provider
+2023-10-18 10:58:38.980 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 10:58:39.202 [info] Looking for git repository
+2023-10-18 10:58:39.202 [info] Found 0 repositories during activation
+2023-10-18 10:58:39.202 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 10:58:40.451 [info] Registering git provider
+2023-10-18 10:58:40.481 [info] Repository file:///home/stagiaire has been opened
+2023-10-18 10:58:40.483 [info] Git initialization state changed: state=initialized
+2023-10-18 10:58:40.483 [info] Review> Validate state in progress
+2023-10-18 10:58:40.483 [info] Review> Validating state...
+2023-10-18 10:58:40.483 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-10-18 10:58:40.483 [info] No GitHub remotes found for folder /home/stagiaire
+2023-10-18 11:01:56.352 [info] Review> Validate state in progress
+2023-10-18 11:01:56.352 [info] Review> Validating state...
+2023-10-18 11:01:56.352 [info] Repo state for file:///home/stagiaire changed.
+2023-10-18 11:01:56.352 [info] Repo file:///home/stagiaire has already been setup.
+2023-10-18 11:01:56.366 [info] Found GitHub remote for folder /home/stagiaire
+2023-10-18 11:01:57.751 [warning] Unable to resolve remote: HttpError: Not Found
+2023-10-18 11:01:58.151 [info] Missing upstream check failed: HttpError: Not Found
+2023-10-18 11:01:58.154 [info] Trying to use globalState for assignableUsers.
+2023-10-18 11:01:58.327 [info] Review> No matching pull request metadata found locally for current branch master
+2023-10-18 11:01:58.327 [info] Review> no matching pull request metadata found for current branch master
+2023-10-18 11:01:58.327 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-10-18 11:01:58.331 [info] No globalState for assignableUsers.
+2023-10-18 11:01:58.968 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:01:59.251 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:01:59.327 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:01:59.704 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:01:59.805 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.

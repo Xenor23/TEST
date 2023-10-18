@@ -1,0 +1,72 @@
+Créer la paire de clés avec la commande suivante :
+- ssh-keygen -t rsa -C "your_email@example.com"
+
+Ou mieux encore avec le chiffrement RSA :
+- ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+
+On y retrouve alors les fichiers suivants :
+- id_rsa : clé privé à conserver sur son PC et à ne surtout pas partager;
+- id_rsa.pub : clé publique à envoyer sur les serveurs distants (GitHub par exemple).
+
+
+GNU/Linux (nécessite le package xclip) :
+xclip -sel clip < ~/.ssh/id_rsa.pub
+
+
+Effacer les clés en cours pour github.com :
+- ssh-keygen -R github.com
+
+
+Si on souhaite ajouter une clé github, on utilisera la commande :
+- ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+
+
+Pour vérifier si la connexion SSH est fonctionnelle, il suffit de taper la
+commande suivante :
+- ssh -T git@github.com
+
+
+
+Suivre un projet en créeant un sous-répertoire .git qui contient tous les fichiers nécessaires au dépôt:
+- git init
+
+
+Changer les informations du committer globalement :
+- $ git config --global user.name "Baobab Tree"
+- $ git config --global user.email baobab@gmail.com
+
+
+Changer les informations du committer par repository :
+- $ git config user.name Baobab Tree"
+- $ git config user.email baobab@gmail.com
+
+
+Changer les informations du committer lors du commit :
+- git commit --author="Baobab Tree < baobab@gmail.com>"
+
+
+Pour voir ce qui a changé depuis le dernier commit : 
+- git diff
+Pour lister tous les fichiers modifiés (ou nouveaux) : 
+- git status
+
+
+Pour ajouter l'ensemble des fichiers à la liste des fichiers à commiter : 
+-$ git add .
+Ou sinon pour un fichier/dossier : 
+-$ git add nom_dossier nom_fichier.ext
+Puis commiter avec : 
+-$ git commit -m "commentaire associé au commit"
+
+
+Pour consulter les historiques des commits :
+- $ git log
+- $ git log - p (pour avoir plus détails)
+
+
+Créer le dépôt distant à l'aide des instructions suivantes :
+- $ git branch -M main
+- $ git remote add origin https://github.com/daron-coder/my-second-project.git
+- $ git push -u origin main
+

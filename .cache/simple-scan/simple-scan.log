@@ -1,0 +1,20 @@
+[+0,00s] DEBUG: simple-scan.vala:2015: Starting simple-scan 42.0, PID=4455
+[+0,00s] DEBUG: unsetenv() is not thread-safe and should not be used after threads are created
+[+0,01s] DEBUG: Trying to initialize portal
+[+0,24s] DEBUG: app-window.vala:1975: Loading state from /home/stagiaire/.config/simple-scan/state
+[+0,24s] WARNING: scanner.vala:1740: Unknown ScanType: . Please report this error.
+[+0,24s] DEBUG: app-window.vala:1954: Restoring window to 600x400 pixels
+[+0,25s] DEBUG: scanner.vala:1620: sane_init () -> SANE_STATUS_GOOD
+[+0,25s] DEBUG: scanner.vala:1626: SANE version 1.1.1
+[+0,25s] DEBUG: scanner.vala:1687: Requesting redetection of scan devices
+[+0,25s] DEBUG: scanner.vala:863: Processing request
+[+0,40s] DEBUG: app-window.vala:2051: Saving state to /home/stagiaire/.config/simple-scan/state
+[+0,55s] DEBUG: app-window.vala:2051: Saving state to /home/stagiaire/.config/simple-scan/state
+[+2,68s] DEBUG: app-window.vala:2051: Saving state to /home/stagiaire/.config/simple-scan/state
+[+2,90s] DEBUG: autosave-manager.vala:201: Deleting autosave records
+[+2,90s] WARNING: autosave-manager.vala:214: Failed to delete autosaves: Erreur à l’ouverture du répertoire « /home/stagiaire/.cache/simple-scan/autosaves » : Aucun fichier ou dossier de ce type
+[+2,90s] DEBUG: scanner.vala:1808: Stopping scan thread
+[+8,67s] DEBUG: scanner.vala:348: sane_get_devices () -> SANE_STATUS_GOOD
+[+8,67s] DEBUG: scanner.vala:863: Processing request
+[+8,67s] DEBUG: scanner.vala:1819: sane_exit ()
+[+8,67s] CRITICAL: app_window_set_scan_devices: assertion 'self != NULL' failed

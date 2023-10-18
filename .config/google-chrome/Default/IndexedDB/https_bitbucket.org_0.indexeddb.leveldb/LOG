@@ -1,0 +1,6 @@
+2023/10/17-14:42:32.956 cd4 Creating DB /home/stagiaire/.config/google-chrome/Default/IndexedDB/https_bitbucket.org_0.indexeddb.leveldb since it was missing.
+2023/10/17-14:42:32.961 cd4 Reusing MANIFEST /home/stagiaire/.config/google-chrome/Default/IndexedDB/https_bitbucket.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/17-14:46:02.497 cd5 Level-0 table #5: started
+2023/10/17-14:46:02.499 cd5 Level-0 table #5: 21843 bytes OK
+2023/10/17-14:46:02.503 cd5 Delete type=0 #3
+2023/10/17-14:46:02.503 cd5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

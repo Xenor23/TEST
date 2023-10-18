@@ -1,0 +1,41 @@
+2023-10-18 11:21:28.311 [info] Extension host with pid 12818 started
+2023-10-18 11:21:28.312 [info] Skipping acquiring lock for /home/stagiaire/.config/Code/User/workspaceStorage/2d2dc88fde159fc67053955727b41d9a.
+2023-10-18 11:21:28.377 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-18 11:21:28.383 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-10-18 11:21:28.388 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-10-18 11:21:28.628 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-18 11:21:28.685 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-10-18 11:21:28.689 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-18 11:21:28.704 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-18 11:21:28.752 [info] Eager extensions activated
+2023-10-18 11:21:28.775 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-18 11:21:28.776 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-18 11:21:28.780 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2023-10-18 11:21:28.787 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-10-18 11:21:28.792 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-10-18 11:21:28.861 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-10-18 11:21:30.010 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:21:30.675 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10004
+2023-10-18 11:21:36.685 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+2023-10-18 11:21:44.994 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:21:50.377 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:24:18.868 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10029
+2023-10-18 11:24:20.666 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:24:25.768 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:25:18.365 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10009
+2023-10-18 11:25:33.103 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:26:43.475 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+2023-10-18 11:27:08.293 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10012
+2023-10-18 11:27:30.695 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+2023-10-18 11:27:36.695 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:28:35.029 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:28:36.354 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:29:10.352 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10036
+2023-10-18 11:29:16.273 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:29:26.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:36:43.068 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10135
+2023-10-18 11:36:49.120 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:36:54.659 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:37:57.951 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10013
+2023-10-18 11:38:08.460 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-18 11:38:20.548 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000

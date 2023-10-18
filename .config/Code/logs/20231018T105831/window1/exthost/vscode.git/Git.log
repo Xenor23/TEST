@@ -1,0 +1,144 @@
+2023-10-18 10:58:32.408 [info] Log level: Info
+2023-10-18 10:58:32.408 [info] Validating found git in: "git"
+2023-10-18 10:58:32.408 [info] Using git "2.34.1" from "git"
+2023-10-18 10:58:40.465 [info] Log level: Info
+2023-10-18 10:58:40.465 [info] Validating found git in: "git"
+2023-10-18 10:58:40.465 [info] Using git "2.34.1" from "git"
+2023-10-18 10:58:40.465 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-18 10:58:40.472 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-18 10:58:40.481 [info] Open repository: /home/stagiaire
+2023-10-18 10:58:40.495 [info] > git config --get commit.template [3ms]
+2023-10-18 10:58:40.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 10:58:40.565 [info] > git status -z -uall [59ms] (cancelled)
+2023-10-18 10:58:54.409 [info] > git show --textconv :klqngd/cours 2/FONCTIONNE/README.md [7ms]
+2023-10-18 10:58:54.410 [info] > git ls-files --stage -- /home/stagiaire/klqngd/cours 2/FONCTIONNE/README.md [1ms]
+2023-10-18 10:58:54.675 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-18 11:00:26.009 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-10-18 11:01:36.862 [info] > git add -A -- . [2ms]
+2023-10-18 11:01:36.862 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:36.918 [info] > git add -A -- . [1ms]
+2023-10-18 11:01:36.918 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:37.124 [info] > git add -A -- . [1ms]
+2023-10-18 11:01:37.124 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:37.579 [info] > git add -A -- . [1ms]
+2023-10-18 11:01:37.579 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:38.385 [info] > git add -A -- . [0ms]
+2023-10-18 11:01:38.385 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:39.640 [info] > git add -A -- . [1ms]
+2023-10-18 11:01:39.640 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:41.444 [info] > git add -A -- . [1ms]
+2023-10-18 11:01:41.444 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:43.899 [info] > git add -A -- . [1ms]
+2023-10-18 11:01:43.899 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:47.103 [info] > git add -A -- . [1ms]
+2023-10-18 11:01:47.103 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:51.158 [info] > git add -A -- . [0ms]
+2023-10-18 11:01:51.158 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:56.163 [info] > git add -A -- . [1ms]
+2023-10-18 11:01:56.163 [info] fatal: Unable to create '/home/stagiaire/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2023-10-18 11:01:56.170 [info] > git config --get commit.template [3ms]
+2023-10-18 11:01:56.171 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:01:56.220 [info] > git status -z -uall [46ms] (cancelled)
+2023-10-18 11:01:56.363 [info] > git config --get commit.template [1ms]
+2023-10-18 11:01:56.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [524ms]
+2023-10-18 11:01:57.052 [info] > git status -z -uall [135ms] (cancelled)
+2023-10-18 11:01:58.186 [info] > git config --local branch.master.github-pr-owner-number [17ms]
+2023-10-18 11:01:58.204 [info] > git config --get commit.template [9ms]
+2023-10-18 11:01:58.204 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:01:58.257 [info] > git check-ignore -v -z --stdin [3ms]
+2023-10-18 11:01:58.331 [info] > git status -z -uall [120ms] (cancelled)
+2023-10-18 11:03:40.486 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-10-18 11:03:40.494 [info] > git config --get commit.template [4ms]
+2023-10-18 11:03:40.495 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:03:40.598 [info] > git status -z -uall [100ms] (cancelled)
+2023-10-18 11:04:29.769 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-18 11:04:31.761 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-18 11:04:37.812 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-18 11:06:25.048 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-18 11:06:26.076 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-18 11:06:31.579 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-18 11:06:34.494 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-18 11:06:35.171 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-18 11:06:36.598 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-18 11:07:04.731 [info] > git show --textconv :klqngd/cours 2/FONCTIONNE/README.md [6ms]
+2023-10-18 11:07:04.732 [info] > git ls-files --stage -- /home/stagiaire/klqngd/cours 2/FONCTIONNE/README.md [2ms]
+2023-10-18 11:08:40.605 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-10-18 11:08:40.618 [info] > git config --get commit.template [6ms]
+2023-10-18 11:08:40.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-10-18 11:08:40.732 [info] > git status -z -uall [108ms] (cancelled)
+2023-10-18 11:13:40.737 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-10-18 11:13:40.745 [info] > git config --get commit.template [1ms]
+2023-10-18 11:13:40.755 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:13:40.876 [info] > git status -z -uall [112ms] (cancelled)
+2023-10-18 11:18:40.880 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-10-18 11:18:40.887 [info] > git config --get commit.template [1ms]
+2023-10-18 11:18:40.896 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:18:41.008 [info] > git status -z -uall [105ms] (cancelled)
+2023-10-18 11:21:04.603 [info] > git ls-files --stage -- /home/stagiaire/klqngd/cours 2/FONCTIONNE/README.md [1ms]
+2023-10-18 11:21:04.611 [info] > git show --textconv :klqngd/cours 2/FONCTIONNE/README.md [1ms]

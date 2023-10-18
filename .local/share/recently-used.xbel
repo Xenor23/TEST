@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/stagiaire/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202023-10-16%2015-58-54.png" added="2023-10-16T13:58:54Z" modified="2023-10-16T13:58:54Z" visited="2023-10-16T13:58:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-16T13:58:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/cours%201" added="2023-10-17T07:48:42Z" modified="2023-10-17T07:50:21Z" visited="2023-10-17T07:48:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus --new-window %U&apos;" modified="2023-10-17T07:50:21Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/cours%202" added="2023-10-17T07:48:50Z" modified="2023-10-17T12:33:41Z" visited="2023-10-17T07:48:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-10-17T12:33:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/cours%201/Installer_et_configurer_son_environnement_de_travail.pdf" added="2023-10-17T07:49:02Z" modified="2023-10-17T07:49:02Z" visited="2023-10-17T07:49:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-17T07:49:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/cours%201/resumeadresseip.pdf" added="2023-10-17T07:50:24Z" modified="2023-10-17T09:50:23Z" visited="2023-10-17T07:50:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-17T07:50:24Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-10-17T09:50:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/cours%201/memento_linux.pdf" added="2023-10-17T09:50:22Z" modified="2023-10-17T09:50:22Z" visited="2023-10-17T09:50:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-17T09:50:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/cours%201/Linux.pdf" added="2023-10-17T09:50:27Z" modified="2023-10-17T09:50:27Z" visited="2023-10-17T09:50:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-17T09:50:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/Documents/BLABLA" added="2023-10-17T09:54:44Z" modified="2023-10-17T09:54:44Z" visited="2023-10-17T09:54:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-10-17T09:54:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/Documents/BLABLA.odt" added="2023-10-17T09:54:44Z" modified="2023-10-17T09:54:44Z" visited="2023-10-17T09:54:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-10-17T09:54:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/T%C3%A9l%C3%A9chargements" added="2023-10-17T09:54:59Z" modified="2023-10-17T09:54:59Z" visited="2023-10-17T09:54:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-10-17T09:54:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/T%C3%A9l%C3%A9chargements/BLABLA.odt" added="2023-10-17T09:55:48Z" modified="2023-10-17T09:55:49Z" visited="2023-10-17T09:55:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2023-10-17T09:55:48Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-10-17T09:55:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/erreur.txt" added="2023-10-17T10:12:48Z" modified="2023-10-17T10:12:48Z" visited="2023-10-17T10:12:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-10-17T10:12:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/T%C3%A9l%C3%A9chargements/binutils-2.7-2.8.patch.gz" added="2023-10-17T10:45:13Z" modified="2023-10-17T10:45:13Z" visited="2023-10-17T10:45:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2023-10-17T10:45:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/T%C3%A9l%C3%A9chargements/Lessentiel_de_GitHub.pdf" added="2023-10-17T12:33:30Z" modified="2023-10-17T12:33:30Z" visited="2023-10-17T12:33:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-17T12:33:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd" added="2023-10-17T12:33:47Z" modified="2023-10-17T12:33:47Z" visited="2023-10-17T12:33:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-10-17T12:33:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%201/resumeadresseip.pdf" added="2023-10-17T12:53:53Z" modified="2023-10-17T12:53:53Z" visited="2023-10-17T12:53:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-17T12:53:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%201/memento_linux.pdf" added="2023-10-17T12:53:56Z" modified="2023-10-18T06:53:58Z" visited="2023-10-17T12:53:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-18T06:53:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%202/Lessentiel_de_GitHub.pdf" added="2023-10-17T13:00:29Z" modified="2023-10-18T07:15:52Z" visited="2023-10-17T13:00:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-18T07:15:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202023-10-18%2009-09-20.png" added="2023-10-18T07:09:20Z" modified="2023-10-18T07:09:20Z" visited="2023-10-18T07:09:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-18T07:09:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%201/Linux.pdf" added="2023-10-18T07:15:45Z" modified="2023-10-18T07:15:45Z" visited="2023-10-18T07:15:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2023-10-18T07:15:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%202/Git%20command%20terminal" added="2023-10-18T07:58:50Z" modified="2023-10-18T07:59:56Z" visited="2023-10-18T07:58:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-10-18T07:58:51Z" count="2"/>
+          <bookmark:application name="snap.discord" exec="&apos;gio open %u&apos;" modified="2023-10-18T07:59:56Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-10-18T07:59:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%202/Vsc%20GIt" added="2023-10-18T08:05:51Z" modified="2023-10-18T08:05:51Z" visited="2023-10-18T08:05:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-10-18T08:05:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%202/Vsc%20Git/README.md" added="2023-10-18T08:20:29Z" modified="2023-10-18T08:20:29Z" visited="2023-10-18T08:20:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-10-18T08:20:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stagiaire/klqngd/cours%202/FONCTIONNE" added="2023-10-18T08:58:07Z" modified="2023-10-18T09:22:20Z" visited="2023-10-18T08:58:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-10-18T08:58:07Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-10-18T09:22:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

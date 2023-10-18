@@ -1,0 +1,23 @@
+2023-10-18 10:57:04.877 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-18 10:57:04.886 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'terminalContextMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-18 10:57:07.759 [info] [perf] Render performance baseline is 25ms
+2023-10-18 10:57:58.513 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/stagiaire/klqngd/cours 2/Vsc Git)
+2023-10-18 10:58:09.648 [error] [Extension Host] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-10-18 10:58:09.649 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/snap/code/143/usr/share/code/resources/app/out/bootstrap.js:1:471)
+	at process.emit (node:events:513:28)
+2023-10-18 10:58:10.649 [error] spawn git ENOENT: Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-10-18 10:58:22.724 [error] Error: The editor could not be opened because the file was not found.
+    at M.fc (vscode-file://vscode-app/snap/code/143/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2327:22358)
+    at async M.setInput (vscode-file://vscode-app/snap/code/143/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2327:21444)
+    at async n.R (vscode-file://vscode-app/snap/code/143/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2325:22000)
+    at async n.J (vscode-file://vscode-app/snap/code/143/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2325:20668)
+    at async n.openEditor (vscode-file://vscode-app/snap/code/143/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2325:19656)
+    at async vscode-file://vscode-app/snap/code/143/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2514:21238
+    at async u.value (vscode-file://vscode-app/snap/code/143/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2547:45561)
