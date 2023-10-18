@@ -28,3 +28,4 @@
 2023-10-18 12:00:16.276 [info] Added views:workbench.panel.comments in workbench.panel.comments
 2023-10-18 12:00:17.202 [info] Added views:github:activePullRequest:welcome in workbench.view.extension.github-pull-request
 2023-10-18 12:00:17.203 [info] Removed views:github:activePullRequest:welcome from workbench.view.extension.github-pull-request
+2023-10-18 12:00:31.354 [info] Removed views:workbench.scm.repositories from workbench.view.scm

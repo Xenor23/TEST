@@ -91,3 +91,23 @@
 2023-10-18 12:00:19.221 [info] > git config --get commit.template [0ms]
 2023-10-18 12:00:19.229 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
 2023-10-18 12:00:19.310 [info] > git status -z -uall [74ms]
+2023-10-18 12:00:26.013 [info] > git add -A -- . [294ms]
+2023-10-18 12:00:26.013 [info] warning: adding embedded git repository: klqngd/cours 2/TEST
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> klqngd/cours 2/TEST
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached klqngd/cours 2/TEST
+hint: 
+hint: See "git help submodule" for more information.
+2023-10-18 12:00:26.466 [info] > git show --textconv :.git/COMMIT_EDITMSG [9ms]
+2023-10-18 12:00:26.469 [info] > git ls-files --stage -- /home/stagiaire/.git/COMMIT_EDITMSG [4ms]
+2023-10-18 12:00:26.762 [info] > git check-ignore -v -z --stdin [4ms]
+2023-10-18 12:00:27.395 [info] > git ls-files --stage -- /home/stagiaire/.git/COMMIT_EDITMSG [4ms]
+2023-10-18 12:00:27.407 [info] > git show --textconv :.git/COMMIT_EDITMSG [3ms]
