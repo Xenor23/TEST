@@ -1,0 +1,26 @@
+2023-10-18 11:55:04.360 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 11:55:04.598 [info] Looking for git repository
+2023-10-18 11:55:04.598 [info] Found 0 repositories during activation
+2023-10-18 11:55:04.598 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 11:55:04.598 [info] Registering git provider
+2023-10-18 11:55:14.579 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 11:55:14.830 [info] Looking for git repository
+2023-10-18 11:55:14.830 [info] Found 0 repositories during activation
+2023-10-18 11:55:14.830 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 11:55:16.824 [info] Registering git provider
+2023-10-18 11:55:16.859 [info] Repository file:///home/stagiaire/klqngd/cours%202/TEST has been opened
+2023-10-18 11:55:16.861 [info] Git initialization state changed: state=initialized
+2023-10-18 11:55:16.861 [info] Review> Validate state in progress
+2023-10-18 11:55:16.861 [info] Review> Validating state...
+2023-10-18 11:55:16.861 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-10-18 11:55:16.861 [info] No GitHub remotes found for folder /home/stagiaire/klqngd/cours 2/TEST
+2023-10-18 11:55:16.892 [info] Review> Validate state in progress
+2023-10-18 11:55:16.892 [info] Review> Validating state...
+2023-10-18 11:55:16.893 [info] Repo state for file:///home/stagiaire/klqngd/cours%202/TEST changed.
+2023-10-18 11:55:16.893 [info] Repo file:///home/stagiaire/klqngd/cours%202/TEST has already been setup.
+2023-10-18 11:55:16.902 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/TEST
+2023-10-18 11:55:18.534 [info] Trying to use globalState for assignableUsers.
+2023-10-18 11:55:18.583 [info] Using globalState assignableUsers for 1.
+2023-10-18 11:55:18.603 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 11:55:18.603 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 11:55:20.574 [info] Review> No matching pull request metadata found on GitHub for current branch main

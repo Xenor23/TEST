@@ -59,3 +59,31 @@
 2023-10-18 11:43:39.149 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
 2023-10-18 11:43:39.193 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
 2023-10-18 11:43:39.316 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:43:53.069 [info] Review> Validate state in progress
+2023-10-18 11:43:53.069 [info] Review> Validating state...
+2023-10-18 11:43:53.185 [info] Found GitHub remote for folder /home/stagiaire
+2023-10-18 11:43:53.396 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:53.396 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:53.478 [warning] Unable to resolve remote: HttpError: Not Found
+2023-10-18 11:43:53.478 [info] Using in-memory cached assignable users.
+2023-10-18 11:43:53.584 [info] Review> No matching pull request metadata found locally for current branch master
+2023-10-18 11:43:53.584 [info] Review> no matching pull request metadata found for current branch master
+2023-10-18 11:43:53.585 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-10-18 11:43:53.685 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:43:53.706 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:53.706 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:53.796 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:43:53.813 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:53.813 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:53.972 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:43:54.000 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:54.000 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:54.102 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:43:54.103 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:43:54.108 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:54.108 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:54.165 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:43:54.394 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:54.394 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:43:54.401 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:43:54.419 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found

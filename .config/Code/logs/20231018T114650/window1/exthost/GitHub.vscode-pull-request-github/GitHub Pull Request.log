@@ -1,0 +1,58 @@
+2023-10-18 11:46:51.758 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 11:46:51.893 [info] Looking for git repository
+2023-10-18 11:46:51.893 [info] Found 0 repositories during activation
+2023-10-18 11:46:51.893 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 11:46:51.895 [info] Registering git provider
+2023-10-18 11:46:51.895 [info] Review> Validate state in progress
+2023-10-18 11:46:51.895 [info] Review> Validating state...
+2023-10-18 11:46:51.956 [info] Repo state for file:///home/stagiaire changed.
+2023-10-18 11:46:51.956 [info] Repo file:///home/stagiaire has already been setup.
+2023-10-18 11:46:51.961 [info] Found GitHub remote for folder /home/stagiaire
+2023-10-18 11:46:53.415 [warning] Unable to resolve remote: HttpError: Not Found
+2023-10-18 11:46:54.872 [info] Missing upstream check failed: HttpError: Not Found
+2023-10-18 11:46:54.873 [info] Trying to use globalState for assignableUsers.
+2023-10-18 11:46:54.911 [info] Using globalState assignableUsers for 1.
+2023-10-18 11:46:55.010 [info] Review> No matching pull request metadata found locally for current branch master
+2023-10-18 11:46:55.010 [info] Review> no matching pull request metadata found for current branch master
+2023-10-18 11:46:55.010 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-10-18 11:46:56.442 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:46:56.442 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:46:57.905 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:46:58.134 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:46:58.134 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:46:58.397 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:46:58.429 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:46:59.050 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:46:59.066 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:46:59.066 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:46:59.257 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:46:59.692 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:46:59.726 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:47:00.460 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:47:00.698 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:47:04.431 [info] Review> Validate state in progress
+2023-10-18 11:47:04.432 [info] Review> Validating state...
+2023-10-18 11:47:04.470 [info] Found GitHub remote for folder /home/stagiaire
+2023-10-18 11:47:05.173 [warning] Unable to resolve remote: HttpError: Not Found
+2023-10-18 11:47:05.173 [info] Using in-memory cached assignable users.
+2023-10-18 11:47:05.295 [info] Review> No matching pull request metadata found locally for current branch jpp
+2023-10-18 11:47:05.295 [info] Review> no matching pull request metadata found for current branch jpp
+2023-10-18 11:47:05.295 [info] Review> No matching pull request metadata found on GitHub for current branch jpp
+2023-10-18 11:47:06.099 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:47:07.001 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:47:07.022 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:47:08.151 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:47:08.410 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:47:24.571 [info] Review> Validate state in progress
+2023-10-18 11:47:24.571 [info] Review> Validating state...
+2023-10-18 11:47:24.641 [info] Found GitHub remote for folder /home/stagiaire
+2023-10-18 11:47:25.361 [warning] Unable to resolve remote: HttpError: Not Found
+2023-10-18 11:47:25.362 [info] Using in-memory cached assignable users.
+2023-10-18 11:47:25.481 [info] Review> No matching pull request metadata found locally for current branch master
+2023-10-18 11:47:25.481 [info] Review> no matching pull request metadata found for current branch master
+2023-10-18 11:47:25.481 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-10-18 11:47:26.287 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:47:27.375 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:47:27.548 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:47:28.437 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:47:28.683 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.

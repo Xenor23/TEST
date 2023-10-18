@@ -110,3 +110,31 @@ warning: There are too many unreachable loose objects; run 'git prune' to remove
 2023-10-18 11:43:47.226 [info] > git config --get commit.template [6ms]
 2023-10-18 11:43:47.227 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
 2023-10-18 11:43:47.304 [info] > git status -z -uall [71ms]
+2023-10-18 11:43:52.944 [info] > git add -A -- . [1174ms]
+2023-10-18 11:43:53.000 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [49ms]
+2023-10-18 11:43:53.000 [info] warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+2023-10-18 11:43:53.007 [info] > git config --get commit.template [0ms]
+2023-10-18 11:43:53.015 [info] > git config --get commit.template [1ms]
+2023-10-18 11:43:53.022 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:43:53.067 [info] > git status -z -uall [39ms]
+2023-10-18 11:43:53.101 [info] > git push [20ms]
+2023-10-18 11:43:53.101 [info] fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+2023-10-18 11:43:53.110 [info] > git config --get commit.template [8ms]
+2023-10-18 11:43:53.117 [info] > git config --get commit.template [8ms]
+2023-10-18 11:43:53.124 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-18 11:43:53.125 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-18 11:43:53.173 [info] > git status -z -uall [42ms]
+2023-10-18 11:43:53.503 [info] > git config --local branch.master.github-pr-owner-number [16ms]
+2023-10-18 11:43:53.524 [info] > git config --get commit.template [13ms]
+2023-10-18 11:43:53.532 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-18 11:43:53.582 [info] > git status -z -uall [43ms]
+2023-10-18 11:43:59.111 [info] > git ls-files --stage -- /home/stagiaire/klqngd/cours 2/ahhh/README.md [3ms]
+2023-10-18 11:43:59.120 [info] > git cat-file -s 6ca994b15a66e5c8c291c194457d1d4a4fd14de9 [1ms]
+2023-10-18 11:43:59.132 [info] > git show --textconv :klqngd/cours 2/ahhh/README.md [3ms]

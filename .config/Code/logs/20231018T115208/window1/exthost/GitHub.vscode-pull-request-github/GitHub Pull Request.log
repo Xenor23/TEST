@@ -1,0 +1,29 @@
+2023-10-18 11:52:09.491 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 11:52:09.662 [info] Looking for git repository
+2023-10-18 11:52:09.662 [info] Found 0 repositories during activation
+2023-10-18 11:52:09.662 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 11:52:09.665 [info] Registering git provider
+2023-10-18 11:52:09.665 [info] Review> Validate state in progress
+2023-10-18 11:52:09.665 [info] Review> Validating state...
+2023-10-18 11:52:09.689 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/ahhh/TEST
+2023-10-18 11:52:10.931 [info] Repo state for file:///home/stagiaire/klqngd/cours%202/ahhh/TEST changed.
+2023-10-18 11:52:10.931 [info] Repo file:///home/stagiaire/klqngd/cours%202/ahhh/TEST has already been setup.
+2023-10-18 11:52:11.795 [info] Trying to use globalState for assignableUsers.
+2023-10-18 11:52:11.841 [info] Using globalState assignableUsers for 1.
+2023-10-18 11:52:11.862 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 11:52:11.862 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 11:52:14.611 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-18 11:52:39.283 [info] Review> Validate state in progress
+2023-10-18 11:52:39.283 [info] Review> Validating state...
+2023-10-18 11:52:39.342 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/ahhh/TEST
+2023-10-18 11:52:39.343 [info] Using in-memory cached assignable users.
+2023-10-18 11:52:39.383 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 11:52:39.383 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 11:52:41.699 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-18 11:52:42.365 [info] Review> Validate state in progress
+2023-10-18 11:52:42.365 [info] Review> Validating state...
+2023-10-18 11:52:42.397 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/ahhh/TEST
+2023-10-18 11:52:42.397 [info] Using in-memory cached assignable users.
+2023-10-18 11:52:42.464 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 11:52:42.464 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 11:52:44.382 [info] Review> No matching pull request metadata found on GitHub for current branch main

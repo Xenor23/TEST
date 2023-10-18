@@ -1,0 +1,42 @@
+2023-10-18 11:51:13.586 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 11:51:13.830 [info] Looking for git repository
+2023-10-18 11:51:13.830 [info] Found 0 repositories during activation
+2023-10-18 11:51:13.830 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 11:51:13.834 [info] Registering git provider
+2023-10-18 11:51:13.834 [info] Review> Validate state in progress
+2023-10-18 11:51:13.834 [info] Review> Validating state...
+2023-10-18 11:51:13.841 [info] Found GitHub remote for folder /home/stagiaire
+2023-10-18 11:51:15.578 [warning] Unable to resolve remote: HttpError: Not Found
+2023-10-18 11:51:16.794 [info] Repo state for file:///home/stagiaire changed.
+2023-10-18 11:51:16.794 [info] Repo file:///home/stagiaire has already been setup.
+2023-10-18 11:51:17.038 [info] Missing upstream check failed: HttpError: Not Found
+2023-10-18 11:51:17.042 [info] Trying to use globalState for assignableUsers.
+2023-10-18 11:51:17.072 [info] Using globalState assignableUsers for 1.
+2023-10-18 11:51:17.165 [info] Review> No matching pull request metadata found locally for current branch master
+2023-10-18 11:51:17.165 [info] Review> no matching pull request metadata found for current branch master
+2023-10-18 11:51:17.165 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-10-18 11:51:18.641 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:51:18.641 [error] GitHubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:51:19.785 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:51:20.050 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:51:20.073 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:51:20.073 [error] GitHubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:51:21.014 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:51:21.035 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:51:21.035 [error] GitHubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'Xenor23/Vsc-Git-test'.
+2023-10-18 11:51:21.505 [warning] GitHubRepository> Fetching default branch failed: HttpError: Not Found
+2023-10-18 11:51:54.982 [warning] /home/stagiaire/.ssh/config: ENOENT: no such file or directory, open '/home/stagiaire/.ssh/config'
+2023-10-18 11:51:55.128 [info] Looking for git repository
+2023-10-18 11:51:55.128 [info] Found 0 repositories during activation
+2023-10-18 11:51:55.128 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-18 11:51:55.130 [info] Registering git provider
+2023-10-18 11:51:55.130 [info] Review> Validate state in progress
+2023-10-18 11:51:55.130 [info] Review> Validating state...
+2023-10-18 11:51:55.143 [info] Found GitHub remote for folder /home/stagiaire/klqngd/cours 2/ahhh/TEST
+2023-10-18 11:51:56.985 [info] Trying to use globalState for assignableUsers.
+2023-10-18 11:51:57.055 [info] Repo state for file:///home/stagiaire/klqngd/cours%202/ahhh/TEST changed.
+2023-10-18 11:51:57.055 [info] Repo file:///home/stagiaire/klqngd/cours%202/ahhh/TEST has already been setup.
+2023-10-18 11:51:57.056 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-18 11:51:57.056 [info] Review> no matching pull request metadata found for current branch main
+2023-10-18 11:51:57.069 [info] No globalState for assignableUsers.
+2023-10-18 11:51:58.853 [info] Review> No matching pull request metadata found on GitHub for current branch main

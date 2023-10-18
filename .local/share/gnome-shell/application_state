@@ -4,18 +4,18 @@
     <application id="libreoffice-writer.desktop" score="9" last-seen="1697548006"/>
     <application id="org.gnome.Evince.desktop" score="884" last-seen="1697620654"/>
     <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1697456131"/>
-    <application id="google-chrome.desktop" score="1469" last-seen="1697622071"/>
+    <application id="google-chrome.desktop" score="1477" last-seen="1697623020"/>
     <application id="gnome-control-center.desktop" score="264" last-seen="1697616011"/>
     <application id="org.gnome.gedit.desktop" score="166" last-seen="1697617231"/>
     <application id="update-manager.desktop" score="0" last-seen="1697539626"/>
-    <application id="org.gnome.Nautilus.desktop" score="85" last-seen="1697622088"/>
+    <application id="org.gnome.Nautilus.desktop" score="89" last-seen="1697622930"/>
     <application id="libreoffice-startcenter.desktop" score="0" last-seen="1697536548"/>
-    <application id="code_code.desktop" score="360" last-seen="1697622085"/>
+    <application id="code_code.desktop" score="460" last-seen="1697623020"/>
     <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1697615996"/>
-    <application id="org.gnome.Terminal.desktop" score="1305" last-seen="1697622088"/>
+    <application id="org.gnome.Terminal.desktop" score="1305" last-seen="1697622868"/>
     <application id="pencil.desktop" score="0" last-seen="1697456195"/>
     <application id="simple-scan.desktop" score="1" last-seen="1697449642"/>
-    <application id="discord_discord.desktop" score="2333" last-seen="1697619755"/>
+    <application id="discord_discord.desktop" score="2334" last-seen="1697622468"/>
     <application id="firefox_firefox.desktop" score="21" last-seen="1697528880"/>
   </context>
 </application-state>

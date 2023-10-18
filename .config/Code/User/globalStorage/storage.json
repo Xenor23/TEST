@@ -5,6 +5,8 @@
             "file:///home/stagiaire/klqngd/cours%202/Vsc%20Git": "__default__profile__",
             "file:///home/stagiaire/klqngd/cours%202/FONCTIONNE": "__default__profile__",
             "file:///home/stagiaire/klqngd/cours%202/FONCTIONNE/my-first-project": "__default__profile__",
+            "file:///home/stagiaire/klqngd/cours%202/ahhh/TEST": "__default__profile__",
+            "file:///home/stagiaire/klqngd/cours%202/TEST": "__default__profile__",
             "file:///home/stagiaire/klqngd/cours%202/ahhh": "__default__profile__"
         },
         "emptyWindows": {}
@@ -15,14 +17,13 @@
         "workspaces": [],
         "folders": [
             {
+                "folderUri": "file:///home/stagiaire/klqngd/cours%202/TEST"
+            },
+            {
                 "folderUri": "file:///home/stagiaire/klqngd/cours%202/ahhh"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1697622126524"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
@@ -30,8 +31,8 @@
             "backupPath": "/home/stagiaire/.config/Code/Backups/e2be99ccf5d9d5ae63c9f1ba46934464",
             "uiState": {
                 "mode": 0,
-                "x": 448,
-                "y": 230,
+                "x": 443,
+                "y": 103,
                 "width": 1024,
                 "height": 768
             }
@@ -76,7 +77,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -91,6 +93,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/klqngd/cours 2/ahhh"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/stagiaire/klqngd/cours%202/TEST",
+                                        "path": "/home/stagiaire/klqngd/cours 2/TEST",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/klqngd/cours 2/TEST"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -754,7 +767,7 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "&&Word Wrap",
-                        "enabled": false
+                        "checked": true
                     }
                 ]
             },
@@ -772,7 +785,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
