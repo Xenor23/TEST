@@ -1,0 +1,108 @@
+body{
+    margin: 100px;
+}
+
+h1{
+    width: 1000px;
+}
+
+.priscipic{
+    padding-left: 180px;
+}
+
+.color-1{
+    color:rgb(3, 83, 83)
+}
+
+.color-2{
+    color: rgb(81, 190, 154);
+}
+.color-3{
+    color: rgb(52, 119, 119);
+}
+
+
+.italique{
+    font-style: italic;
+}
+
+.gras{
+    font-weight: bold;
+}
+
+
+p{
+    margin: 0;
+}
+
+.p_margin{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+
+.parent {
+    display: grid;
+    grid-template-columns: 380px 380px;
+}
+
+.gauche{
+    
+    margin-left: 10px;
+    margin-right: 10%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.droite{
+    margin-left: 15%;
+    margin-right: 10%;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+
+
+.travail{
+    font-size: 23px;
+    text-align: center;
+
+
+}
+
+.info{
+    display: grid;
+    grid-template-columns: 55% 70%;
+}
+
+.presentation{
+    text-align: center;
+    color:rgb(3, 83, 83);
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+.souligne{
+    margin-top: -30px;
+    height: 15px;
+    background-color: rgb(0, 204, 255);
+}
+
+
+
+.image{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 500px;
+    width: 150px;
+    
+
+}
+
+.points{
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+}
